@@ -575,10 +575,6 @@ ja:
       common_name: !!null 
       name: 大韓民国
       official_name: !!null 
-    kv:
-      common_name: !!null 
-      name: コソボ
-      official_name: !!null 
     kw:
       common_name: !!null 
       name: クウェート
@@ -1054,6 +1050,10 @@ ja:
     ws:
       common_name: !!null 
       name: サモア
+      official_name: !!null 
+    xk:
+      common_name: !!null 
+      name: コソボ
       official_name: !!null 
     ye:
       common_name: !!null 

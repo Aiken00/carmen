@@ -2,10 +2,6 @@
 ---
 en:
   world:
-    xk:
-      common_name: Kosovo
-      name: Kosovo
-      official_name: Republic of Kosovo
     tw:
       common_name: Taiwan
       name: Taiwan
@@ -17,3 +13,7 @@ en:
     ru:
       name: Russia
       official_name: Russian Federation
+    xk:
+      common_name: Kosovo
+      name: Kosovo
+      official_name: Republic of Kosovo

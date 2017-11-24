@@ -469,10 +469,6 @@ tw:
       common_name: !!null
       name: 韓國
       official_name: !!null
-    kv:
-      common_name: !!null
-      name: 科索沃
-      official_name: !!null
     kw:
       common_name: !!null
       name: 科威特
@@ -945,6 +941,10 @@ tw:
       common_name: !!null
       name: 薩摩亞
       official_name: !!null
+    xk:
+      common_name: !!null
+      name: 科索沃
+      official_name: !!null
     ye:
       common_name: !!null
       name: 葉門
@@ -965,7 +965,3 @@ tw:
       common_name: !!null
       name: 辛巴威
       official_name: !!null
-    xk:
-      common_name: 科索沃
-      name: 科索沃
-      official_name: 科索沃共和國

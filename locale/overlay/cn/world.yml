@@ -493,10 +493,6 @@ cn:
       common_name: !!null
       name: 韩国
       official_name: !!null
-    kv:
-      common_name: !!null
-      name: 科索沃
-      official_name: !!null
     kw:
       common_name: !!null
       name: 科威特
@@ -984,6 +980,10 @@ cn:
     ws:
       common_name: !!null
       name: 萨摩亚
+      official_name: !!null
+    xk:
+      common_name: !!null
+      name: 科索沃
       official_name: !!null
     ye:
       common_name: !!null 

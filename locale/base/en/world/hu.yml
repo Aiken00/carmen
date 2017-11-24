@@ -42,8 +42,6 @@ en:
         name: Komárom-Esztergom
       km:
         name: Kecskemét
-      kv:
-        name: Kaposvár
       mi:
         name: Miskolc
       nk:
@@ -84,6 +82,8 @@ en:
         name: Veszprém (county)
       vm:
         name: Veszprém
+      xk:
+        name: Kaposvár
       za:
         name: Zala
       ze:

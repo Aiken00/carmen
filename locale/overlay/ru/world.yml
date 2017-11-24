@@ -497,10 +497,6 @@ ru:
       common_name: !!null 
       name: Республика Корея
       official_name: !!null 
-    kv:
-      common_name: !!null 
-      name: Косово
-      official_name: !!null 
     kw:
       common_name: !!null 
       name: Кувейт
@@ -992,6 +988,10 @@ ru:
     ws:
       common_name: !!null 
       name: Самоа
+      official_name: !!null 
+    xk:
+      common_name: !!null 
+      name: Косово
       official_name: !!null 
     ye:
       common_name: !!null 

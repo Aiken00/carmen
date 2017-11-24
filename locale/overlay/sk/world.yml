@@ -473,10 +473,6 @@ sk:
       common_name: !!null 
       name: Kórejská republika
       official_name: !!null 
-    kv:
-      common_name: !!null 
-      name: Kosovo
-      official_name: !!null 
     kw:
       common_name: !!null 
       name: Kuvajt
@@ -956,6 +952,10 @@ sk:
     ws:
       common_name: !!null 
       name: Samoa
+      official_name: !!null 
+    xk:
+      common_name: !!null 
+      name: Kosovo
       official_name: !!null 
     ye:
       common_name: !!null 

@@ -481,10 +481,6 @@ hi:
       common_name: !!null
       name: कोरिया, गणराज्य के
       official_name: !!null
-    kv:
-      common_name: !!null
-      name: कोसोवो
-      official_name: !!null
     kw:
       common_name: !!null
       name: कुवैत
@@ -960,6 +956,10 @@ hi:
     ws:
       common_name: !!null
       name: समोआ
+      official_name: !!null
+    xk:
+      common_name: !!null
+      name: कोसोवो
       official_name: !!null
     ye:
       common_name: !!null
