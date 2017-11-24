@@ -965,3 +965,7 @@ tw:
       common_name: !!null
       name: 辛巴威
       official_name: !!null
+    xk:
+      common_name: 科索沃
+      name: 科索沃
+      official_name: 科索沃共和國
